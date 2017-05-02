@@ -5,7 +5,7 @@ import '../App.css';
 class Splasher extends Component {
   render() {
     return (
-      <div className="splasher">
+      <div className="splasher">      
         <hr id="navhr"/>
         <center>
         	<p id="iblog">iBlog</p>
@@ -18,7 +18,7 @@ class Splasher extends Component {
         </center>
         <br />
         <center><span className="glyphicon glyphicon-menu-down" id="arrowdown"></span></center>
-
+        <center><p id="latinphrase">(magnitudinem semper)</p></center>
       </div>
     );
   }
