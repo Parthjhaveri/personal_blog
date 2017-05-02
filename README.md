@@ -1,3 +1,3 @@
-#Personal Blog
+# Personal Blog
 
-##Built using React JS
+## Built using React JS
