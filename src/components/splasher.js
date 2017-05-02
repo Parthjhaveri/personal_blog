@@ -14,6 +14,10 @@ class Splasher extends Component {
 
         <span className="glyphicon glyphicon-menu-down" id="arrowdown"></span>
 
+        <center>
+        	<p id="blogofa">Front-End Developer | Designer | UI/UX Enthusiast</p>
+        </center>
+
       </div>
     );
   }
