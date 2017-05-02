@@ -8,9 +8,9 @@ class Navi extends Component {
       <div className="navi">
         <center>
         	<ul className="navlist">
-        		<li className="navlistitem">list-item</li>
-        		<li className="navlistitem">list-item</li>
-        		<li className="navlistitem">list-item</li>
+        		<li className="navlistitem">Website</li>
+        		<li className="navlistitem">Archives</li>
+        		<li className="navlistitem">About</li>
         	</ul>
         </center>
       </div>
