@@ -6,7 +6,12 @@ class Splasher extends Component {
   render() {
     return (
       <div className="splasher">
-        sdsdsd
+        
+        <center>
+        	<p id="iblog">iBlog</p>
+        	<p id="pj">PARTH JHAVERI</p>
+        </center>
+
       </div>
     );
   }
