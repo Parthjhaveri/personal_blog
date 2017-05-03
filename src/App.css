@@ -133,3 +133,55 @@ html, body {
   }
 
 }
+
+.buttons {
+  width: 90%;
+  height: 50px;
+  display: inline-block;
+  float: right;
+  background-color: #3affca;
+}
+
+.blogbutton {
+  width: 150px;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #3affca;
+  border-left-color: #1a1a1a;
+  border-right-color: #1a1a1a;
+  display: inline-block;
+  margin-left: -1px;
+  font-family: 'Jura', sans-serif;
+  color: #1a1a1a;
+  font-size: 18px;
+  transition: 0.4s ease;
+  text-align: center;
+}
+
+.blogbutton:hover {
+  background-color: #1a1a1a;
+  color: #3affca;
+  transition: 0.4s ease;
+  border-top-color: #1a1a1a;
+  border-bottom-color: #1a1a1a;
+}
+
+.firstContent {
+  width: 90%;
+  height: 100vh;
+  display: inline-block;
+  float: right;
+  background-color: #1a1a1a;
+  font-family: 'Jura', sans-serif;
+  /*font-family: 'Oxygen', sans-serif;*/
+  padding-top: 200px; 
+}
+
+#latinphrase {
+  font-family: 'Jura', sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  float: right;
+  margin-right: 20px;
+  color: #ff0f8b; 
+}
