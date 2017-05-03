@@ -39,6 +39,7 @@ html, body {
   -webkit-animation: blink 8s infinite; 
   animation: blink 8s infinite;
   position: relative;
+  margin-top: -100px;
 }
 
 #pj {
@@ -70,11 +71,12 @@ html, body {
 }
 
 #navhr {
-  width: 40%;
+  width: 45%;
   border-color: grey;
   border-width: 1px;
   transform: rotate(270deg);
-  margin-top: 50px;
+  margin-top: 150px;
+  z-index: -1;
 }
 
 #arrowdown {
