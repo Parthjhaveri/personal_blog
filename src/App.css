@@ -5,7 +5,7 @@ html, body {
 }
 
 .navi {
-  width: 10%;
+  width: 6%;
   height: 100vh;
   background-color: #1a1a1a;
   position: fixed;
@@ -17,10 +17,11 @@ html, body {
   font-family: 'Jura', sans-serif;
   font-size: 16px;
   font-weight: lighter;
+  padding-right: 20px;
 }
 
 .splasher {
-  width: 90%;
+  width: 94%;
   height: 100vh;
   display: inline-block;
   float: right;
@@ -135,7 +136,7 @@ html, body {
 }
 
 .buttons {
-  width: 90%;
+  width: 94%;
   height: 50px;
   display: inline-block;
   float: right;
@@ -173,7 +174,7 @@ html, body {
 }
 
 .firstContent {
-  width: 90%;
+  width: 94%;
   height: auto;
   display: inline-block;
   float: right;
@@ -218,12 +219,41 @@ html, body {
   background-color: #1a1a1a;
   margin: 10px;
   display: inline-block;
-  background-image: url(https://futurism.com/wp-content/uploads/2015/12/timetravel-600x600.jpg);
+  background-image: url(../images/timetravel.jpg);
+  background-size: 100%;
 }
 
-#multiverse {
-  background-image: url(http://blogs-images.forbes.com/startswithabang/files/2016/01/globe-73397_960_720.jpg);
-  background-size: 170%;
+#wideboxtwo {
+  width: 460px;
+  height: 260px;
+  border: 1px solid white;
+  background-color: #1a1a1a;
+  margin: 10px;
+  display: inline-block;
+  background-image: url(../images/stonehenge.jpg);
+  background-size: 100%;
+}
+
+#wideboxtwomultiverse {
+  width: 460px;
+  height: 260px;
+  border: 1px solid white;
+  background-color: #1a1a1a;
+  margin: 10px;
+  display: inline-block;
+  background-image: url(../images/multiverse.jpg);
+  background-size: 100%;
+}
+
+#wideboxtwoaliens {
+  width: 460px;
+  height: 260px;
+  border: 1px solid white;
+  background-color: #1a1a1a;
+  margin: 10px;
+  display: inline-block;
+  background-image: url(../images/aliens.jpg);
+  background-size: 100%;
 }
 
 #featuredblogheading {
@@ -233,11 +263,12 @@ html, body {
 
 .descbox {
   width: 100%;
-  height: 50px;
+  height: auto;
   position: relative;
   background-color: black;
   padding: 15px;
   position: absolute;
   bottom: 0px;
   opacity: 0.8;
+  font-size: 18px;
 }

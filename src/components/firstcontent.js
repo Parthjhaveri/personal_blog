@@ -23,36 +23,38 @@ class FirstContent extends Component {
 	      					</p>
 	      				</div>
 	      			</div>
-
 	      		</a>
 
 	      		<a href="https://futurism.com/new-evidence-about-cold-spot-in-space-could-support-case-for-a-multiverse/" target="_blank">
-		      		<div className="featuredblog" id="multiverse">
+		      		<div className="featuredblog" id="wideboxtwomultiverse">
 		      			<div className="descbox">
 	      					<p>
-	      						We may have...Multiverse...
+	      						We May Have Uncovered the First Ever Evidence of the Multiverse
 	      					</p>
 	      				</div>
 		      		</div>
 	      		</a>
 
-	      		<div className="featuredblog">
-	      			
-	      		</div>
-	      		
-	      		<br/>
+      			<a href="https://futurism.com/astronomer-instead-of-alien-life-should-we-be-searching-for-signs-of-alien-tech/" target="_blank">
+      			<div className="featuredblog" id="wideboxtwo">
+      				<div className="descbox">
+      					<p>
+      						Astronomer: Instead of Alien Life, Should We Be Searching for Signs of Alien Tech?
+      					</p>
+      				</div>
+      			</div>
+	      		</a>
 
-	      		<div className="featuredblog">
+      			<a href="https://futurism.com/new-evidence-about-cold-spot-in-space-could-support-case-for-a-multiverse/" target="_blank">
+	      		<div className="featuredblog" id="wideboxtwoaliens">
+	      			<div className="descbox">
+      					<p>
+      						We May Have Uncovered the First Ever Evidence of the Multiverse
+      					</p>
+      				</div>
 	      		</div>
+	      		</a>
 
-	      		<div className="featuredblog">
-	      		</div>
-
-	      		<div className="featuredblog">
-	      		</div>
-
-	      		<div className="featuredblog">
-	      		</div>
       		</center>
 
       	</div>
