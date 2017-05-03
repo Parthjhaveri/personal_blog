@@ -139,8 +139,8 @@ html, body {
   height: 50px;
   display: inline-block;
   float: right;
-  border: 1px solid #3affca;
-  background-color: #3affca;
+  border: 1px solid #2da7ff;
+  background-color: #2da7ff;
   border-top-color: #1a1a1a;
   border-bottom-color: #1a1a1a;
 }
@@ -149,7 +149,7 @@ html, body {
   width: 150px;
   height: 51px;
   padding: 10px;
-  border: 1px solid #3affca;
+  border: 1px solid #2da7ff;
   border-left-color: #1a1a1a;
   border-right-color: #1a1a1a;
   display: inline-block;
@@ -166,7 +166,7 @@ html, body {
 
 .blogbutton:hover {
   background-color: #1a1a1a;
-  color: #3affca;
+  color: #2da7ff;
   transition: 0.4s ease;
   border-top-color: #1a1a1a;
   border-bottom-color: #1a1a1a;
