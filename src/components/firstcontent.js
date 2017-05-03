@@ -26,9 +26,15 @@ class FirstContent extends Component {
 
 	      		</a>
 
-	      		<div className="featuredblog">
-	      			
-	      		</div>
+	      		<a href="https://futurism.com/new-evidence-about-cold-spot-in-space-could-support-case-for-a-multiverse/" target="_blank">
+		      		<div className="featuredblog" id="multiverse">
+		      			<div className="descbox">
+	      					<p>
+	      						We may have...Multiverse...
+	      					</p>
+	      				</div>
+		      		</div>
+	      		</a>
 
 	      		<div className="featuredblog">
 	      			

@@ -221,17 +221,23 @@ html, body {
   background-image: url(https://futurism.com/wp-content/uploads/2015/12/timetravel-600x600.jpg);
 }
 
+#multiverse {
+  background-image: url(http://blogs-images.forbes.com/startswithabang/files/2016/01/globe-73397_960_720.jpg);
+  background-size: 170%;
+}
+
 #featuredblogheading {
   text-align: left;
   margin-bottom: 50px;
 }
 
 .descbox {
-  width: auto;
+  width: 100%;
   height: 50px;
   position: relative;
   background-color: black;
   padding: 15px;
   position: absolute;
   bottom: 0px;
+  opacity: 0.8;
 }
