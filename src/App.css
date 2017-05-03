@@ -150,7 +150,7 @@ html, body {
   width: 150px;
   height: 51px;
   padding: 10px;
-  border: 1px solid #2da7ff;
+  border: 1px solid #fc9f3c;
   border-left-color: #1a1a1a;
   border-right-color: #1a1a1a;
   display: inline-block;
@@ -167,7 +167,7 @@ html, body {
 
 .blogbutton:hover {
   background-color: #1a1a1a;
-  color: #2da7ff;
+  color: #fc9f3c;
   transition: 0.4s ease;
   border-top-color: #1a1a1a;
   border-bottom-color: #1a1a1a;
