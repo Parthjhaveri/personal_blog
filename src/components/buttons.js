@@ -9,12 +9,13 @@ class Buttons extends Component {
         
       <center>
         <div className="blogbutton">
+          Astronomy
+        </div>
+        
+        <div className="blogbutton">
           Twitter
         </div>
 
-        <div className="blogbutton">
-          Astronomy
-        </div>
       </center>
 
       </div>

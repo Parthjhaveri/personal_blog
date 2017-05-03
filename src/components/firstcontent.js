@@ -12,7 +12,7 @@ class FirstContent extends Component {
       			// FEATURED BLOGS
       		}
 
-	      	<h1 id="featuredblogheading">Featured Blogs</h1>	
+	      	<h1 id="featuredblogheading">Featured Blogs from Futurism</h1>	
       		<center>
 
       			<a href="https://futurism.com/new-research-shows-that-time-travel-is-mathematically-possible/" target="_blank">
