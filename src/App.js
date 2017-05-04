@@ -10,10 +10,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <Navi />
-      <Splasher />
-      <Buttons />
-      <FirstContent />
+        <Navi />
+        <Splasher />
+        <Buttons />
+        <FirstContent />
       </div>
     );
   }
